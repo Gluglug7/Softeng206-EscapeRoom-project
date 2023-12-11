@@ -5,8 +5,8 @@ Project for SOFTENG 206 (Software Engineering Design 1) in Part II of our Softwa
 https://github.com/tonylxm/escAIpe-room-game-potioncraft/assets/126369686/1ddb7d3c-7d89-45e7-be2a-f0fe0ace8ab5
 
 # Developers:
-- Tony Lim
 - Adam Bodicoat
+- Tony Lim
 - Andy Zhang
 
 ### Built With
